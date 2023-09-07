@@ -10,7 +10,7 @@ n/a
 
 go to https://mitchmcnaughton.github.io/passwordgen/
 
-should look like this ![password generator website](<passowrd generator website.PNG>)
+should look like this ![password generator website](<Assets/img/passowrd generator website.PNG>)
 
 
 # credits
